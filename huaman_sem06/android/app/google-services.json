@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684330236577",
+    "project_id": "huamanbaldeon01",
+    "storage_bucket": "huamanbaldeon01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684330236577:android:bc4a3a0ab09bf8de480ee0",
+        "android_client_info": {
+          "package_name": "com.example.huaman_sem06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHDgQFxUXyUMPZIAZRn1bs6s_r7DK66E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
